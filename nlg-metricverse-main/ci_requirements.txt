@@ -1,0 +1,24 @@
+datasets>=2.9,<2.10
+fire>=0.4.0
+numpy>=1.21.0
+pandas>=1.1.5
+setuptools>=65.5.1
+requests>=2.27.1
+typing>=3.7.4.3
+scipy>=1.9.0
+matplotlib>=3.5.1
+validators>=0.20.0
+seaborn>=0.12.0
+torch>=1.12.0
+transformers>=4.24.0
+bert_score==0.3.11
+tqdm>=4.64.1
+evaluate>=0.4
+pyemd>=0.5.1
+ipython>=7.16.1
+scikit-learn
+sacrebleu>=2.0.0
+bleurt @ git+https://github.com/google-research/bleurt.git
+jiwer>=2.3.0
+unbabel-comet>=1.1.2,<2;python_version<"3.8"
+unbabel-comet>=2.0,<2.1;python_version>="3.8"
